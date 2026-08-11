@@ -16,7 +16,13 @@
     "https://github.com/HarbourMasters/2ship2harkinian",
     "https://github.com/HarbourMasters/Starship",
     "https://github.com/HarbourMasters/SpaghettiKart",
-    "https://github.com/HarbourMasters/Ghostship"
+    "https://github.com/HarbourMasters/Ghostship",
+
+    "https://github.com/rt64/rt64",
+    "https://github.com/N64Recomp/N64Recomp",
+    "https://github.com/N64Recomp/N64ModernRuntime",
+    "https://github.com/N64Recomp/RecompFrontend"
+    
   ],
   
   "vibecoded_users": [
@@ -28,6 +34,8 @@
     "https://github.com/SrBananaMan",
     "https://github.com/revosucks",
     "https://github.com/dariosamo",
-    "https://github.com/Mr-Wiseguy"
+    "https://github.com/Mr-Wiseguy",
+    "https://github.com/rt64",
+    "https://github.com/N64Recomp"
   ]
 }
